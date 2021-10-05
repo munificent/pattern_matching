@@ -1,0 +1,6 @@
+This is a simple little library to emulate ML-style pattern
+matching in C#. You can find a detailed explanation here:
+
+http://journal.stuffwithstuff.com/2009/05/13/ml-style-pattern-matching-in-c/
+
+- Bob Nystrom
